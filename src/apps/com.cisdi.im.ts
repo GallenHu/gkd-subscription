@@ -11,9 +11,7 @@ export default defineAppConfig({
       rules: [
         {
           matches: 'LinearLayout > @TextView[text=`稍后`]',
-          snapshotUrls: [
-            'https://i.gkd.li/import/14659011',
-          ],
+          snapshotUrls: ['https://i.gkd.li/import/14659011'],
         },
       ],
     },
