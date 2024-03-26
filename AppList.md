@@ -355,6 +355,7 @@
 | 轻松阅                 | [io.sbyd.app](/docs/io.sbyd.app.md)                                                                                                                               | 1      |
 | 蜻蜓FM                 | [fm.qingting.qtradio](/docs/fm.qingting.qtradio.md)                                                                                                               | 1      |
 | 蜻蜓点金               | [zhongxinjiantou.szkingdom.android.newphone](/docs/zhongxinjiantou.szkingdom.android.newphone.md)                                                                 | 1      |
+| 轻推                   | [com.cisdi.im](/docs/com.cisdi.im.md)                                                                                                                             | 1      |
 | 亲邻开门               | [com.qinlin.edoor](/docs/com.qinlin.edoor.md)                                                                                                                     | 5      |
 | 汽水音乐               | [com.luna.music](/docs/com.luna.music.md)                                                                                                                         | 2      |
 | 全民K歌                | [com.tencent.karaoke](/docs/com.tencent.karaoke.md)                                                                                                               | 2      |
